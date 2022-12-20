@@ -1,0 +1,2 @@
+# Reddit Sentiment Analysis
+The following project is an exploration of the Reddit API. The first section includes some basic use of PRAW's models including creating instances of subreddits and comments using the popular subreddit AmItheAsshole. The instances were then used to create a dataframe with comments from several submissions for sentiment analysis. In the second section of this notebook, comments were used to rank a selection of 10 popular subreddits by average sentiment.
